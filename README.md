@@ -159,7 +159,8 @@ jupyter notebook Gridlock.ipynb
 Built for the Flipkart GRiD hackathon as a spatio-temporal demand forecasting solution using an ensemble learning approach.
 
 Team members:
-Tugiti Likhitha Gavireddy Jyotshna Devi
+Tugiti Likhitha 
+Gavireddy Jyotshna Devi
 
 ---
 # License
